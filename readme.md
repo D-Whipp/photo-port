@@ -1,5 +1,7 @@
 # Photo-Port
+
 ### Front End App
+
 ![app screenshot](./images/app-screenshot.png)
 
 ## Description
@@ -14,6 +16,7 @@ Welcome to Photo-Port. A Front End React app I built while studying in Universit
 - [Badges](#badges)
 
 ## Usage
+
 ## Author
 
 Hello, my name is David.<br>
@@ -45,3 +48,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Badges
+
+![react badge](https://img.shields.io/badge/react-16.13.1-blue)
+![react-dom badge](https://img.shields.io/badge/react--dom-16.13.1-blue)
+![react-scripts badge](https://img.shields.io/badge/react--scripts-3.4.1-blue)
