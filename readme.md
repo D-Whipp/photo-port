@@ -17,6 +17,9 @@ Welcome to Photo-Port. A Front End React app I built while studying in Universit
 
 ## Usage
 
+You can access the site by clicking [here](https://d-whipp.github.io/photo-port/). <br>
+Once there you are free to navigate around the site.
+
 ## Author
 
 Hello, my name is David.<br>
