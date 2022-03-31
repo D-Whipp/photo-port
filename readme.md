@@ -3,8 +3,15 @@
 ![app screenshot](./images/app-screenshot.png)
 
 ## Description
+
+Welcome to Photo-Port. A Front End React app I built while studying in University of Arizona's Coding Bootcamp. Photo-Port introduced me to React Modal's and their place in React Components.
+
 ## Table of Contents
-## Installation
+- [Usage](#usage)
+- [Author](#author)
+- [License](#license)
+- [Badges](#badges)
+
 ## Usage
 ## Author
 ## License
