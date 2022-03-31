@@ -7,6 +7,7 @@
 Welcome to Photo-Port. A Front End React app I built while studying in University of Arizona's Coding Bootcamp. Photo-Port introduced me to React Modal's and their place in React Components.
 
 ## Table of Contents
+
 - [Usage](#usage)
 - [Author](#author)
 - [License](#license)
@@ -14,6 +15,11 @@ Welcome to Photo-Port. A Front End React app I built while studying in Universit
 
 ## Usage
 ## Author
+
+Hello, my name is David.<br>
+You can email me at dwhipp88@gmail.com.<br>
+You can view my [github](https://github.com/D-Whipp).
+
 ## License
 
 MIT License
